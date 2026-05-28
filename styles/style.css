@@ -579,7 +579,7 @@ body {
 #es-rc #es-rc-content .es-reviews__quote {
   margin-bottom: 32px;
   max-width: 25%;
-  margin: 0 auto;
+  margin: 10px auto;
 }
 #es-rc #es-rc-content .es-reviews .swiper-button-next:after,
 #es-rc #es-rc-content .es-reviews .swiper-button-prev:after {
